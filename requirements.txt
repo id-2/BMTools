@@ -3,7 +3,7 @@ SPARQLWrapper
 matplotlib
 python-pptx
 bs4
-langchain==0.0.147
+langchain==0.1.0
 openai
 py3langid
 transformers
